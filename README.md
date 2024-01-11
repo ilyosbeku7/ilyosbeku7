@@ -1,2 +1,31 @@
-Hi, I'm Usmonov Ilyosbek <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/BsKqzahx6b0De0H1Si" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-BsKqzahx6b0De0H1Si">via GIPHY</a></p>>
+<img src="https://raw.githubusercontent.com/ilyosbeku7/ilyosbeku7/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm ilyosbeku7/ "/>
+<div align="justify">
+
+<a href="https://www.instagram.com/ilyosbek918/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@ilyosbekusmonov2583">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/usmonov089/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</div>
+<p></p>
+<p align="justify">
+Welcome to my GitHub page. I am Ilyasbek Usmanov and currently a student of Fergana Polytechnic Institute, I learn new things about programming and teach these things to others.
+
+</p>
+
+
+
+
+
+
 
